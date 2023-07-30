@@ -1,7 +1,7 @@
 # Guess-My-Number Game : 
 
 Welcome to the Guessing Game repository! This is a simple game where a random number between 1 and 20 is generated, and you are challenged to guess it correctly.
-![image](https://github.com/NilanchalaPanda/GUESS-MY-NUMBER/assets/110488337/a3639081-028f-41ce-9c05-d146a15d8332)(https://nilanchalapanda.github.io/GUESS-MY-NUMBER/)
+![image](https://github.com/NilanchalaPanda/GUESS-MY-NUMBER/assets/110488337/a3639081-028f-41ce-9c05-d146a15d8332) (https://nilanchalapanda.github.io/GUESS-MY-NUMBER/)
 
 ## Game Rules :
 ☑️The game will automatically generate a random number between 1 and 20. <br>
